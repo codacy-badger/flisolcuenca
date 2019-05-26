@@ -10,5 +10,5 @@ Hola, gracias por visitar la página del Flisol 2019 Cuenca.
 
 EL listado de charlas que fueron impartidas en el auditorio.
 
-.. image:: /images/crono.png
+.. image:: /images/crono.jpg
 
