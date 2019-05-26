@@ -13,5 +13,5 @@ El FLISOL es el evento de difusión de Software Libre más grande en Latinoamér
 
 La entrada es gratuita y su principal objetivo es promover el uso del software libre de manera primordial, dando a conocer al público en general su filosofía, alcances, avances y desarrollo. 
 
-.. image:: /images/flisol.jpg
+.. image:: /images/portada.png
 
